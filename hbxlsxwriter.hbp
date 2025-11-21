@@ -50,7 +50,7 @@ src/hb_others.prg
 libxlsxwriter\third_party\minizip\ioapi.c
 libxlsxwriter\third_party\minizip\zip.c
 libxlsxwriter\third_party\minizip\unzip.c
-libxlsxwriter\third_party\minizip\iowin32.c
+{win}libxlsxwriter\third_party\minizip\iowin32.c
 
 libxlsxwriter\third_party\tmpfileplus\tmpfileplus.c
 
