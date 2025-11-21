@@ -85,3 +85,5 @@ libxlsxwriter/src/xmlwriter.c
 -cflag=-DUSE_NO_MD5
 # -cflag=-DUSE_STANDARD_TMPFILE
 {allbcc}-cflag=-DUSE_FILE32API
+
+$hb_pkg_install.hbm
